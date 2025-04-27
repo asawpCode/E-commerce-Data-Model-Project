@@ -8,7 +8,6 @@ Includes SQL scripts for table creation, data manipulation, and stored procedure
 - Entity-Relationship Diagram (ERD)
 - SQL DDL and DML scripts
 - Screenshots of query results
-- Data Governance documentation
 
 ## Technologies
 - SQL (Oracle / MySQL)
